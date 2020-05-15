@@ -1,7 +1,0 @@
-# > Plex
-USER-AGENT,plex
-USER-AGENT,Plex
-USER-AGENT,Plex*
-DOMAIN-SUFFIX,plex.tv
-DOMAIN-SUFFIX,plex.direct
-DOMAIN,139.162.11.17
