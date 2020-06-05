@@ -1,0 +1,9 @@
+#Notion
+USER-AGENT,Notion*
+USER-AGENT,Notion
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,cloudflare.com
